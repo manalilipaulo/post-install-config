@@ -23,9 +23,9 @@ This lab demonstrates the necessary changes I make to configure osTicket so it c
 <img src="https://i.imgur.com/7HyoONM.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
-After installing osTicket, it is now time to make configurations to use it as a ticketing system. One thing to note is that I switch between Admin and Agent panels as each panel has different configurations. To tell which panel is used, look at the top right of the osTicket screen. If it reads Agent Panel, the Admin panel is the one being used and vice versa.
+After completing the pre-requisites from the previous step and installing osTicket, we're now able to use the ticketing system. I frequently switched between the Admin and the Agent panels to get a proper view of how the whole system is broken down. To determine which profile is being used, the top right of the screenshot will share "admin" or "agent".
 
-The first step to take is to make a new role called Supreme Admin. For the purposes of this lab, I am intentionally creating a role that has every permission that can be granted. To create a new role, open the Admin panel enter the Agents Menu. Click on Roles and create the new role from there.
+Firstly, I created role called Supreme Admin. For this lab, I am intentionally creating a role that has every permission that can be granted. To create a new role, > open the Admin panel > enter the Agents Menu > Click on Roles and > create the new role.
 </p>
 <br />
 
